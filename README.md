@@ -15,4 +15,4 @@ Phaetus Rapido (PT1000),
 Klicky Probe (Trihorn Mount),
 Custom nozzle brush,
 Preciseprinterparts 8mm bed,
-and many other non essential gizmos and doodads,
+and many other non essential gizmos and doodads
